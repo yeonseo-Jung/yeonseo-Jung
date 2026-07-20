@@ -41,9 +41,6 @@
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yeonseo-Jung&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeonseo-Jung&theme=tokyo-night&hide_border=true" />
 </p>
 
