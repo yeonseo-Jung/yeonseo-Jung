@@ -84,11 +84,6 @@ FDE는 컨설팅과 엔지니어링의 경계에 서 있는 역할입니다. 요
 ### GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yeonseo-Jung&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonseo-Jung&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=yeonseo-Jung&theme=tokyonight&hide_border=true" />
 </p>
 
