@@ -1,39 +1,15 @@
-# 정연서 · Yeonseo Jung
+<img src="assets/header.svg" width="100%" />
 
-**Forward Deployed Engineer** · Dev × Consulting × Strategy
+<p align="center">
+  <a href="https://yeonseo-jung.github.io"><img src="https://img.shields.io/badge/Portfolio-0064FF?style=for-the-badge" /></a>
+  <a href="https://yeonseo-jung.github.io/resume/"><img src="https://img.shields.io/badge/Resume-191F28?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/yeonseo-jung"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-고객의 업무 현장에서 문제를 진단하고, 목표를 다시 정의하고, 운영되는 시스템으로 만듭니다.
-위시켓 AIDP 사업부에서 중소·중견기업의 ERP·데이터·AI 전환을 맡고 있고, 이전에는 핀테크 스타트업에서 1,600+ 계좌 규모의 운용 상품과 24/7 실행 인프라를 설계·운영했습니다.
-
-[Portfolio](https://yeonseo-jung.github.io) · [Resume](https://yeonseo-jung.github.io/resume/) · [LinkedIn](https://www.linkedin.com/in/yeonseo-jung)
-
----
-
-### Dev
-
-- **레거시 ERP 운영 이관 2건** — 13년치 시험 이력 9,012건을 수수료 합계 1원 단위까지 일치시켜 이관, ERP 거래 5,219문서 · 23,130라인을 품목·수량·금액 전량 일치로 이관. 격리 검증 환경 게이트와 운영 환경 롤백 실연을 먼저 끝낸 뒤 본이관.
-- **분산 주문 실행 인프라** — 1,600+ 계좌 · 24/7 · 월평균 거래대금 약 5천억 원. at-least-once 전달 + 멱등성 키, 계좌 단위 bulkhead로 장애 격리.
-- **Python → Rust 점진 전환** — Strangler Fig + feature flag로 무중단 전환. 메모리 −95%, 이미지 −87%, 핵심 코드 −53%.
-- **LLM 기능 설계** — 모델은 조회 계획만 만들고 서버가 검증·실행. 90문항 평가 세트와 204건 백테스트로 도입 여부와 속도를 결정.
-
-### Consulting
-
-- 요구사항을 모두 구현하고도 목표를 놓친 ERP 프로젝트를 현장 재방문으로 다시 진단하고, "담당자가 실행하는 구조 → 결과만 승인하는 구조"로 목표를 재정의해 Phase 2로 전환.
-- 고객 팀별 심층 인터뷰를 설계하고, 결과를 팀별 핵심 목표 · 마일스톤 · 범위 밖 항목으로 좁혀 MVP 범위 수립.
-- 고객 클라우드 아키텍처를 인프라 파트너와 반복 설계하고, 견적의 가정을 미팅 결론과 대조해 재산출 협상.
-
-### Strategy
-
-- 이탈 원인을 짚어 3-클릭 구독형 운용 상품을 기획·구축. AUM 500억 원+, 서비스 매출 40% 기여.
-- AI 도입을 자동화 → 셰도우 대조 → 확대의 단계로 설계하고, 단계 전환을 데이터로 판단.
-- 제안서 · 견적서 · 보고서 7종을 같은 입력에서 생성하는 사업부 문서 표준 구축. FDE 채용 1차 면접관.
-
-### Security
-
-- 시크릿은 코드·로그·저장소에 두지 않고 런타임에만 조회. 외부 발송은 가드와 사람 승인을 거쳐서만 실행.
-- AI 에이전트의 쓰기는 계획 → 승인 → 실행으로 강제하고, 승인 응답은 서명으로 위변조 방지. 읽기는 허용 컬럼만 담은 view로 범위 고정.
-- 레거시 시스템의 하드코딩 자격증명 제거와 최소 권한 계정 분리, API 토큰 해시 저장 · 스코프 · 만료 적용.
-
----
-
-**Stack** · Python (FastAPI, Django) · TypeScript (Next.js) · Rust (tokio) · PostgreSQL · RabbitMQ · Apache Airflow · Docker · AWS · Claude Code · MCP
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+</p>
